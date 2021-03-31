@@ -22,7 +22,7 @@ def hypotenuse(x,y):
     
   
 a = math.pi/6
-
+print("CALCULATOR")
 print("Select operator : ")
 print("1.Sin")
 print("2.Cos")
